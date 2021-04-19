@@ -10,7 +10,8 @@ Workflow for BS Playground. Brainstorm -> Design -> Build -> Ship -> Iterate.
 
 Welcome and Have Fun :blush:
 
-
+  
+---
 **Technologies:** 
 * HTML5 
 * CSS
@@ -18,7 +19,8 @@ Welcome and Have Fun :blush:
 * Bootstrap
 * Python
 * React  
-
+  
+---
 **MVP Version 1:**
 - [ ] Build a Homepage
 - [ ] Design Template
