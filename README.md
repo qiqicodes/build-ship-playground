@@ -1,4 +1,4 @@
-# build-ship-playground
+# Build Ship Playground
 
 **Purpose:**
 
@@ -20,6 +20,14 @@ Welcome and Have Fun :blush:
 * Python
 * React  
   
+---
+**Resources:** 
+* [complete md emojis](https://gist.github.com/rxaviers/7360908) 
+* [complete HTML emojis](https://unicode.org/emoji/charts/full-emoji-list.html)
+* [Coolors - random color palette generator](https://coolors.co/)
+* [Bootstrap docs](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+* [dribbble - web design template](https://dribbble.com/)
+
 ---
 **MVP Version 1:**
 - [ ] Build a Homepage
