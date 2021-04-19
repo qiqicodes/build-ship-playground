@@ -33,10 +33,10 @@ Welcome and Have Fun :blush:
 - [ ] Build a Homepage
 - [ ] Design Template
 - [ ] Color Pallete
-- [ ] Picture Carousel - feature us and goofy faces
-- [ ] Story-Telling with Emojis - each player writes the story that they believe the emojis tell and then compare for a laugh.
-- [ ] Daily Small Wins - log our success of the day to celebrate small wins
-- [ ] Wheel of Fortune -  random leet code question prompt 
+- [ ] Picture Carousel - *feature us and goofy faces*
+- [ ] Story-Telling with Emojis - *each player writes the story that they believe the emojis tell and then compare for a laugh.*
+- [ ] Daily Small Wins - *log our success of the day to celebrate small wins*
+- [ ] Wheel of Fortune -  *random leet code question prompt* 
 
 
 
